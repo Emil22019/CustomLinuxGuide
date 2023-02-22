@@ -1,4 +1,4 @@
-#CustomLinuxGuide - How to make custom distrubution.
+# CustomLinuxGuide - How to make custom distrubution.
 
 Creating a custom Linux distribution may seem like a daunting task, but with the right tools and a little bit of patience, it can be a rewarding and educational experience. In this article, we'll walk through the basic steps required to create your own custom Linux distribution.
 
